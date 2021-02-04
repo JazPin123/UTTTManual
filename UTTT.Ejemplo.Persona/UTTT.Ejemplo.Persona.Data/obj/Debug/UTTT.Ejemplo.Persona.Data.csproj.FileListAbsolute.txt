@@ -1,0 +1,17 @@
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\bin\Debug\UTTT.Ejemplo.Persona.Data.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\bin\Debug\UTTT.Ejemplo.Persona.Data.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.csprojResolveAssemblyReference.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Data\bin\Debug\UTTT.Ejemplo.Persona.Data.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Data\bin\Debug\UTTT.Ejemplo.Persona.Data.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.csprojAssemblyReference.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.csproj.CoreCompileInputs.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.pdb
+C:\Users\User\Desktop\UTTT\Manuales\Manual\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\bin\Debug\UTTT.Ejemplo.Persona.Data.dll
+C:\Users\User\Desktop\UTTT\Manuales\Manual\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\bin\Debug\UTTT.Ejemplo.Persona.Data.pdb
+C:\Users\User\Desktop\UTTT\Manuales\Manual\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UTTT\Manuales\Manual\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTTT\Manuales\Manual\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.dll
+C:\Users\User\Desktop\UTTT\Manuales\Manual\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Data\obj\Debug\UTTT.Ejemplo.Persona.Data.pdb

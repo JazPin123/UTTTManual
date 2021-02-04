@@ -1,0 +1,12 @@
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Linq.Data\bin\Release\UTTT.Ejemplo.Linq.Data.dll.config
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Linq.Data\bin\Release\UTTT.Ejemplo.Linq.Data.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Linq.Data\bin\Release\UTTT.Ejemplo.Linq.Data.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Linq.Data\obj\Release\UTTT.Ejemplo.Linq.Data.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Linq.Data\obj\Release\UTTT.Ejemplo.Linq.Data.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Linq.Data\bin\Release\UTTT.Ejemplo.Linq.Data.dll.config
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Linq.Data\bin\Release\UTTT.Ejemplo.Linq.Data.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Linq.Data\bin\Release\UTTT.Ejemplo.Linq.Data.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Linq.Data\obj\Release\UTTT.Ejemplo.Linq.Data.csprojAssemblyReference.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Linq.Data\obj\Release\UTTT.Ejemplo.Linq.Data.csproj.CoreCompileInputs.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Linq.Data\obj\Release\UTTT.Ejemplo.Linq.Data.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Linq.Data\obj\Release\UTTT.Ejemplo.Linq.Data.pdb

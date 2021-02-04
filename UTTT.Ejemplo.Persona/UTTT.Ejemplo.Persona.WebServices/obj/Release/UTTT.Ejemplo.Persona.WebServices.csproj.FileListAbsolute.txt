@@ -1,0 +1,21 @@
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.WebServices.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.WebServices.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.csprojResolveAssemblyReference.cache
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.Data.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.Data.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Linq.Data.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Linq.Data.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.WebServices.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.WebServices.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Linq.Data.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.Data.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Linq.Data.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Linq.Data.dll.config
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\bin\UTTT.Ejemplo.Persona.Data.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.csprojAssemblyReference.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.csproj.CoreCompileInputs.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.csproj.CopyComplete
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.WebServices\obj\Release\UTTT.Ejemplo.Persona.WebServices.pdb

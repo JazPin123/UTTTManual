@@ -1,0 +1,9 @@
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\bin\Release\UTTT.Ejemplo.Persona.WinForm.exe
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\bin\Release\UTTT.Ejemplo.Persona.WinForm.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\obj\x86\Release\UTTT.Ejemplo.Persona.WinForm.Properties.Resources.resources
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\obj\x86\Release\UTTT.Ejemplo.Persona.WinForm.csproj.GenerateResource.Cache
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\obj\x86\Release\UTTT.Ejemplo.Persona.WinForm.exe
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\obj\x86\Release\UTTT.Ejemplo.Persona.WinForm.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\obj\x86\Release\UTTT.Ejemplo.Persona.WinForm.frmPrincipal.resources
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\bin\Release\UTTT.Ejemplo.Persona.WinForm.exe.config
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.WinForm\obj\x86\Release\UTTT.Ejemplo.Persona.WinForm.frmPersonaManager.resources

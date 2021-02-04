@@ -1,0 +1,16 @@
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Control.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Control.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Data.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Data.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.dll
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.pdb
+C:\Users\Edel\Documents\Visual Studio 2010\Projects\UTTT.Ejemplo.Persona\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.csprojResolveAssemblyReference.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Control.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Control.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Data.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\bin\Release\UTTT.Ejemplo.Persona.Data.pdb
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.csprojAssemblyReference.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.csproj.CoreCompileInputs.cache
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.csproj.CopyComplete
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.dll
+C:\SVN\UTTT.Ejemplo.Persona\trunk\UTTT.Ejemplo.Persona.Control\obj\Release\UTTT.Ejemplo.Persona.Control.pdb

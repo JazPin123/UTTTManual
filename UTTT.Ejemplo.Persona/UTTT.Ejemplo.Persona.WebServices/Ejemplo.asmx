@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="Ejemplo.asmx.cs" Class="UTTT.Ejemplo.Persona.WebServices.Ejemplo" %>
